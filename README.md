@@ -1,10 +1,8 @@
 # PirateVariantsHPFix
 
-This plugin gives a short expansion to the story of Artemis Renard, the Flivver racer from Glory that the player rescues.
+This plugin modifies the HP of Pirate variants of ships (Bulwark to the Bastion, Mammoth to the Behemoth, Valkyrie to the Aerie), so that they have the most shield/hull HP values used by either variant.
 
-Upon revisitting Glory sometime after the , Artemis will contact the player, and tell them about how she's spoken with her contacts in the industry and vouched for the player to receive several custom modifications for the Racing Flivver.
-
-Requires acquiring the Racing Flivver *after* having this plugin active, as the modifications necessitate an attribute to be added to the ship model (or you can just save edit it into the ship in your save file).
+So, basically buffs them. Because I think that works better since they're (so far) unique ships, and if that changes they'd be rare anyhow. Also because hull HP is worth less than shield HP so they kinda get scammed by the tradeoff.
 
 #### Arachi's Plugins
 
@@ -12,3 +10,5 @@ Requires acquiring the Racing Flivver *after* having this plugin active, as the 
 [LowerDamage](https://github.com/Arachi-Lover/LowerDamage)
 [EvenLowerDamage](https://github.com/Arachi-Lover/EvenLowerDamage)
 [RacingFlivverModifications](https://github.com/Arachi-Lover/RacingFlivverModifications)
+[SmolEngines](https://github.com/Arachi-Lover/SmolEngines)
+[PirateVariantsHPFix](https://github.com/Arachi-Lover/PirateVariantsHPFix)
