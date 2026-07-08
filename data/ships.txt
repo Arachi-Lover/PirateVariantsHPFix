@@ -13,4 +13,8 @@ ship "Bulwark"
 	attributes
 		"shields" 8600
 		"hull" 6500
-	
+
+ship "Nighthawk"
+	attributes
+		"shields" 4400
+		"hull" 1100
