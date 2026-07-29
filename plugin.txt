@@ -1,0 +1,9 @@
+name "Pirate Variants HP Fix"
+about "Modifies the HP of Pirate variants of ships such that they have the maximum shield/hull HP values of the Pirate and the civilian versions."
+version 1.0.1
+authors
+	Arachi
+tags
+	gameplay
+dependencies
+	"game version" 0.11.2
